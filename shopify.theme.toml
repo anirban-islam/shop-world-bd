@@ -1,0 +1,5 @@
+[enviroments.basic]
+store="shop-world-bd"
+store-password ="anirban"
+theme="shop-world-bd/main"
+theme-editor-sync=true

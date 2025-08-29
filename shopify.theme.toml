@@ -1,5 +1,5 @@
 [environments.basic]
-store="shop-world-bd"
-store-password="anirban"
-theme="shop-world-bd/main"
-theme-editor-sync=true
+store="shop-world-bd"           # Replace with your store name (without .myshopify.com)
+store-password="anirban"    # Replace with your store password (if needed)
+theme="shop-world-bd/main" # Replace with your theme directory or theme ID
+theme-editor-sync=true            # Set to true to enable theme editor sync
